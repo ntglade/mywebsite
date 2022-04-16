@@ -1,0 +1,16 @@
+.bold {
+    font-weight: bold;
+}
+.italicize {
+    font-style: italic;
+}
+.underline {
+    text-decoration-line: underline;
+}
+.center {
+    text-align: center;
+}
+.aboutmeimg {
+    height: 400px;
+    width: 650px;
+}

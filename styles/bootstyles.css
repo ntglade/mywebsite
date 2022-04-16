@@ -1,0 +1,59 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+.header {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+}
+.middle {
+    position: absolute;
+    top: 110px;
+    left: 5px;
+    right: 5px;
+    bottom: 110px;
+}
+.footer {
+    position: fixed;
+    bottom: 0px;
+    left: 5px;
+    right: 5px;
+    height: 50px;
+}
+.underline {
+    text-decoration-line: underline;
+    color: white;
+}
+.textleft {
+    text-align: left;
+    padding-left: 20px;
+}
+.textright {
+    float: right;
+    padding-right: 20px;  
+}
+.textcenter {
+    text-align: center;
+    padding-top: 10px;
+}
+.firstdash {
+    float: left;
+    padding-left: 50px;
+    width: 600px;
+    height: 600px;
+}
+.seconddash {
+    float: right;
+    padding-right: 50px;
+    width: 600px;
+    height: 600px;
+}
+a {
+    color: white;
+}
+.paddingtop {
+    padding-top: 10px;
+}
